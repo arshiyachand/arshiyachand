@@ -9,11 +9,24 @@
 <img src="https://img.shields.io/badge/-JavaScript-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="JavaScript">
 </div>
 
-<h4>👨‍💻 Frameworks </h4>
+<h2>👨‍💻 Frameworks </h2>
 <div class = "frame">
 <img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 <img src="https://img.shields.io/badge/-Flutter-F3F7FA?logo=flutter&logoColor=02569B&style=for-the-badge&logoWidth=30" alt="Flutter">
+  <img src="https://img.shields.io/badge/-.NET-F3F7FA?logo=dotnet&logoColor=512BD4&style=for-the-badge&logoWidth=30" alt="dotnet">
+  <img src="https://img.shields.io/badge/-Flask-F3F7FA?logo=flask&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Flask">
 </div>
+
+<h2>👨‍💻 Tools </h2>
+<div class = "frame">
+<img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
+<img src="https://img.shields.io/badge/-Flutter-F3F7FA?logo=flutter&logoColor=02569B&style=for-the-badge&logoWidth=30" alt="Flutter">
+  <img src="https://img.shields.io/badge/-.NET-F3F7FA?logo=dotnet&logoColor=512BD4&style=for-the-badge&logoWidth=30" alt="dotnet">
+  <img src="https://img.shields.io/badge/-Flask-F3F7FA?logo=flask&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Flask">
+</div>
+
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

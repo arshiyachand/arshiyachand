@@ -1,17 +1,19 @@
-<h1>Hi, I'm Arshiya! <a href="https://www.linkedin.com/in/arshiya-c/">Software Developer</a> 
+<h1>Hi, I'm Arshiya!<br> <a href="https://www.linkedin.com/in/arshiya-c/">Software Developer</a></h1>
 
-<h4>👨‍💻 Programming Languages </h4>
+<h2>👨‍💻 Programming Languages </h2>
+<div class = "lang">
 <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
 <img src="https://img.shields.io/badge/-C Sharp-F3F7FA?logo=c sharp&logoColor=512BD4&style=for-the-badge&logoWidth=30" alt="C Sharp">
 <img src="https://img.shields.io/badge/-C++-F3F7FA?logo=c++&logoColor=00599C&style=for-the-badge&logoWidth=30" alt="C++">
 <img src="https://img.shields.io/badge/-R-F3F7FA?logo=r&logoColor=276DC3&style=for-the-badge&logoWidth=30" alt="R">
 <img src="https://img.shields.io/badge/-JavaScript-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="JavaScript">
-
+</div>
 
 <h4>👨‍💻 Frameworks </h4>
+<div class = "frame">
 <img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 <img src="https://img.shields.io/badge/-Flutter-F3F7FA?logo=flutter&logoColor=02569B&style=for-the-badge&logoWidth=30" alt="Flutter">
-
+</div>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

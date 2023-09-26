@@ -32,9 +32,16 @@
 <h2>👨‍💻 Big Data Ecosystem </h2>
 <div class = "frame">
 
-  <img src="https://img.shields.io/badge/-HDFS-F3F7FA?logo=apachehadoop&logoColor=512BD4&style=for-the-badge&logoWidth=30" alt="dotnet">
-  <img src="https://img.shields.io/badge/-MapReduce-F3F7FA?logo=apachespark&logoColor=E25A1C&style=for-the-badge&logoWidth=30" alt="Flask">
+<img src="https://img.shields.io/badge/-HDFS-F3F7FA?logo=apachehadoop&logoColor=512BD4&style=for-the-badge&logoWidth=30" alt="dotnet">
+<img src="https://img.shields.io/badge/-MapReduce-F3F7FA?logo=apachespark&logoColor=E25A1C&style=for-the-badge&logoWidth=30" alt="Flask">
+  
 </div>
+
+<h2>👨‍💻 Certifications </h2>
+<a href="https://www.linkedin.com/in/arshiya-c/">UiPath Developer Certification</a>
+<a href="https://www.linkedin.com/in/arshiya-c/">BluePrism Developer Certification (AD01)</a>
+<a href="https://www.linkedin.com/in/arshiya-c/">Master Certified Automation Anywhere Developer (V11 & A2019)</a>
+<a href="https://www.linkedin.com/in/arshiya-c/">NICE Automation Advisor Certification</a>
 
 
 

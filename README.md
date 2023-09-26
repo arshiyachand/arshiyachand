@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arshiya! <a href="https://www.linkedin.com/in/arshiya-c/">Software Developer</a> <a href="https://www.linkedin.com/in/arshiya-c/">
+<h1>Hi, I'm Arshiya! <a href="https://www.linkedin.com/in/arshiya-c/">Software Developer</a> 
 
 <h4>👨‍💻 Programming Languages </h4>
 <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">

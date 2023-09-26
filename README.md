@@ -19,10 +19,21 @@
 
 <h2>👨‍💻 Tools </h2>
 <div class = "frame">
-<img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
-<img src="https://img.shields.io/badge/-Flutter-F3F7FA?logo=flutter&logoColor=02569B&style=for-the-badge&logoWidth=30" alt="Flutter">
-  <img src="https://img.shields.io/badge/-.NET-F3F7FA?logo=dotnet&logoColor=512BD4&style=for-the-badge&logoWidth=30" alt="dotnet">
-  <img src="https://img.shields.io/badge/-Flask-F3F7FA?logo=flask&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Flask">
+<img src="https://img.shields.io/badge/-Power BI-F3F7FA?logo=powerbi&logoColor=F2C811&style=for-the-badge&logoWidth=30" alt="Flask">
+<img src="https://img.shields.io/badge/-Tableau-F3F7FA?logo=tableau&logoColor=E97627&style=for-the-badge&logoWidth=30" alt="tableau">
+ <img src="https://img.shields.io/badge/-Power Automate-F3F7FA?logo=powerautomate&logoColor=E97627&style=for-the-badge&logoWidth=30" alt="tableau">
+  <img src="https://img.shields.io/badge/-UiPath-F3F7FA?logo=uipath&logoColor=E97627&style=for-the-badge&logoWidth=30" alt="tableau">
+  <img src="https://img.shields.io/badge/-Blueprism-F3F7FA?logo=uipath&logoColor=E97627&style=for-the-badge&logoWidth=30" alt="tableau">
+  <img src="https://img.shields.io/badge/-Automation Anywhere-F3F7FA?logo=uipath&logoColor=E97627&style=for-the-badge&logoWidth=30" alt="tableau">
+  <img src="https://img.shields.io/badge/-NICE-F3F7FA?logo=uipath&logoColor=E97627&style=for-the-badge&logoWidth=30" alt="tableau">
+  
+</div>
+
+<h2>👨‍💻 Big Data Ecosystem </h2>
+<div class = "frame">
+
+  <img src="https://img.shields.io/badge/-HDFS-F3F7FA?logo=apachehadoop&logoColor=512BD4&style=for-the-badge&logoWidth=30" alt="dotnet">
+  <img src="https://img.shields.io/badge/-MapReduce-F3F7FA?logo=apachespark&logoColor=E25A1C&style=for-the-badge&logoWidth=30" alt="Flask">
 </div>
 
 

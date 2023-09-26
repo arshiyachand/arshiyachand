@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arshiya! <a href="https://github.com/arshiyachand">Software Developer</a> <a href="https://www.linkedin.com/in/arshiya-c/">
+<h1>Hi, I'm Arshiya! <a href="https://www.linkedin.com/in/arshiya-c/">Software Developer</a> <a href="https://www.linkedin.com/in/arshiya-c/">
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

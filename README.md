@@ -38,9 +38,9 @@
 </div>
 
 <h2>👨‍💻 Certifications </h2>
-<a href="https://www.linkedin.com/in/arshiya-c/">UiPath Developer Certification</a>
-<a href="https://www.linkedin.com/in/arshiya-c/">BluePrism Developer Certification (AD01)</a>
-<a href="https://www.linkedin.com/in/arshiya-c/">Master Certified Automation Anywhere Developer (V11 & A2019)</a>
+<a href="https://www.linkedin.com/in/arshiya-c/">UiPath Developer Certification</a><br>
+<a href="https://www.linkedin.com/in/arshiya-c/">BluePrism Developer Certification (AD01)</a><br>
+<a href="https://www.linkedin.com/in/arshiya-c/">Master Certified Automation Anywhere Developer (V11 & A2019)</a><br>
 <a href="https://www.linkedin.com/in/arshiya-c/">NICE Automation Advisor Certification</a>
 
 

@@ -42,6 +42,8 @@
 <a href="https://www.credly.com/badges/b29bad64-0161-4400-a6a5-1360be02abd7/linked_in">BluePrism Developer Certification (AD01)</a><br>
 <a href="https://certificates.automationanywhere.com/6d270e34-90ed-4243-a713-812fa945c6a4">Master Certified Automation Anywhere Developer (V11 & A2019)</a><br>
 <a href="https://github.com/arshiyachand/Certificates/blob/main/NICEAutomationAdvisor.pdf">NICE Automation Advisor Certification</a>
+<a href="https://github.com/arshiyachand/Certificates">All Certifications</a>
+
 
 
 
